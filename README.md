@@ -7,7 +7,7 @@
 
 企业官方网站Pro版
 
-![](https://github.com/FantasticLBP/Company-Website/raw/master/snapshot/1.png)
+![]()
 
 
 
